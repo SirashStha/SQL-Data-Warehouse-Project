@@ -139,5 +139,5 @@ BEGIN
 		PRINT '=========================================='
 	END CATCH
 END
-GO 
-EXEC bronze.load_bronze
+--GO 
+--EXEC bronze.load_bronze
